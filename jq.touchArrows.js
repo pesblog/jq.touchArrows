@@ -3,7 +3,7 @@
  * https://github.com/pesblog/jq.touchArrows/
  *
  * Copyright (c) 2012 "pesblog" Noritak Baba
- * Dual licensed under the MIT and GPL licenses.
+ * Licensed under the MIT licenses.
  */
 
 /**
